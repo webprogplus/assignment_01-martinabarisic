@@ -1,3 +1,19 @@
 body {
-  font-family: monospace;
+    font-family: monospace;
+    text-align: center;
+    background-image: url("images/cute.jpg");
+    background-size: 900px 900px;
+}
+
+h2 {
+    font-size: 14 pt;
+    margin-top: 60px;
+}
+
+p {
+    font-size: 14pt;
+}
+
+img {
+    margin-top: 20px;
 }
